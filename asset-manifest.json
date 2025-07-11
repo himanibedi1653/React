@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/himanibedi1653/React.git/static/css/main.5be1c7dc.css",
-    "main.js": "/himanibedi1653/React.git/static/js/main.eeffb71f.js",
-    "static/js/453.48c370d5.chunk.js": "/himanibedi1653/React.git/static/js/453.48c370d5.chunk.js",
-    "index.html": "/himanibedi1653/React.git/index.html",
-    "main.5be1c7dc.css.map": "/himanibedi1653/React.git/static/css/main.5be1c7dc.css.map",
-    "main.eeffb71f.js.map": "/himanibedi1653/React.git/static/js/main.eeffb71f.js.map",
-    "453.48c370d5.chunk.js.map": "/himanibedi1653/React.git/static/js/453.48c370d5.chunk.js.map"
+    "main.css": "/React/static/css/main.5be1c7dc.css",
+    "main.js": "/React/static/js/main.291b1482.js",
+    "static/js/453.48c370d5.chunk.js": "/React/static/js/453.48c370d5.chunk.js",
+    "index.html": "/React/index.html",
+    "main.5be1c7dc.css.map": "/React/static/css/main.5be1c7dc.css.map",
+    "main.291b1482.js.map": "/React/static/js/main.291b1482.js.map",
+    "453.48c370d5.chunk.js.map": "/React/static/js/453.48c370d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5be1c7dc.css",
-    "static/js/main.eeffb71f.js"
+    "static/js/main.291b1482.js"
   ]
 }
